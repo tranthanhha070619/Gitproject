@@ -1,0 +1,11 @@
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\bin\Debug\netcoreapp2.1\Cau_Truc_Lenh.deps.json
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\bin\Debug\netcoreapp2.1\Cau_Truc_Lenh.runtimeconfig.json
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\bin\Debug\netcoreapp2.1\Cau_Truc_Lenh.runtimeconfig.dev.json
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\bin\Debug\netcoreapp2.1\Cau_Truc_Lenh.dll
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\bin\Debug\netcoreapp2.1\Cau_Truc_Lenh.pdb
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.csprojAssemblyReference.cache
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.csproj.CoreCompileInputs.cache
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.AssemblyInfoInputs.cache
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.AssemblyInfo.cs
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.dll
+D:\untitled\Cau_Truc_Lenh_C\Cau_Truc_Lenh\obj\Debug\netcoreapp2.1\Cau_Truc_Lenh.pdb

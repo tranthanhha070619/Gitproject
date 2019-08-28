@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<script>
+   function giatrilonnhat(x){
+       let maxN = x[0];
+       for(let i = 0; i<= x.length; i++){
+           if( x[i] > maxN){
+               maxN = x[i];
+           }
+       }
+     return  document.write('giá trị lớn nhất là: ' + maxN)
+   }
+   let x =[1,2,5,4,6,7,8,9];
+   giatrilonnhat(x);
+
+</script>
+</body>
+</html>
